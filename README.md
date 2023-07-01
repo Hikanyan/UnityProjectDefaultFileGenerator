@@ -1,11 +1,14 @@
 # UnityProjectDefaultFileGenerator
 
-Unity‚ÅƒQ[ƒ€‚ğì‚éÛ‚É•K—v‚É‚È‚éƒtƒ@ƒCƒ‹‚ğ©“®¶¬‚·‚é.bat‚Å‚·B
 
-Unity‚ÌProject‚ÌuAssetsvƒtƒ@ƒCƒ‹‚ÌêŠ‚ÅuUnityProjectDefaultFileGenerator.batv‚ğ
-ƒ_ƒuƒ‹ƒNƒŠƒbƒN‚Å‹N“®‚µ‚Ä‚­‚¾‚³‚¢B
+https://github.com/Hikanyan/UnityProjectDefaultFileGenerator/tags
 
-ì¬‚³‚ê‚éƒf[ƒ^
+Unityã§ã‚²ãƒ¼ãƒ ã‚’ä½œã‚‹éš›ã«å¿…è¦ã«ãªã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’è‡ªå‹•ç”Ÿæˆã™ã‚‹.batã§ã™ã€‚
+
+Unityã®Projectã®ã€ŒAssetsã€ãƒ•ã‚¡ã‚¤ãƒ«ã®å ´æ‰€ã§ã€ŒUnityProjectDefaultFileGenerator.batã€ã‚’
+ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã§èµ·å‹•ã—ã¦ãã ã•ã„ã€‚
+
+ä½œæˆã•ã‚Œã‚‹ãƒ‡ãƒ¼ã‚¿
 Project{
 	Audeio,
 	GameDate,
