@@ -31,3 +31,5 @@ Project{
 	UI
 }
 ```
+![image](https://github.com/Hikanyan/UnityProjectDefaultFileGenerator/assets/86185936/1894094f-3046-4759-a294-db069154ca3f)
+
