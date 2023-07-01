@@ -1,7 +1,7 @@
 # UnityProjectDefaultFileGenerator
 
 
-[ダウンロード](https://github.com/Hikanyan/UnityProjectDefaultFileGenerator/tags)
+[ダウンロード](https://github.com/Hikanyan/UnityProjectDefaultFileGenerator/releases/tag/v1.0)
 
 Unityでゲームを作る際に必要になるファイルを自動生成する.batです。
 
