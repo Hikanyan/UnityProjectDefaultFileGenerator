@@ -9,6 +9,7 @@ UnityのProjectの「Assets」ファイルの場所で「UnityProjectDefaultFile
 ダブルクリックで起動してください。
 
 作成されるデータ
+```
 Project{
 	Audeio,
 	GameDate,
@@ -29,3 +30,4 @@ Project{
 	},
 	UI
 }
+```
